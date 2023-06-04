@@ -9,5 +9,7 @@
 * Tech&Privacy enthusiast
 * :star2: Proud member of «Powidge Pub» alliance :star2:
 
+More info about my expirirence: [CV](https://github.com/foxidokun/cv/blob/master/cv.pdf)
+
 *You can visit https://forestfox.tk for more info and my contacts or read cringe articles. Or found in Fediverse (please don't)*
 
