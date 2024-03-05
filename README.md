@@ -2,14 +2,14 @@
 
 #### I am Ilya Gladyshev
 
-CV: [pdf](https://github.com/foxidokun/cv/blob/master/cv.pdf)
-
 * IPhO/APhO winner
 * FPV drones enjoyer
 * Computer Science student (system programming)
 * Localhost admin (aka homelab)
 * Tech&Privacy enthusiast
 * :star2: Proud member of «#reply» chat :star2:
+
+CV: [pdf](https://github.com/foxidokun/cv/blob/master/cv.pdf)
 
 More info about my expirirence: 
 
