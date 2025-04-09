@@ -1,10 +1,12 @@
 ### Hello there
 
+Most of my projects are on https://git.foxido.dev/foxido, so check it out
+
 #### I am Ilya Gladyshev
 
 * IPhO/APhO winner
 * FPV drones enjoyer
-* Computer Science student (system programming)
+* Computer Science student (system programming), also employed in this field
 * Localhost admin (aka homelab)
 * Tech&Privacy enthusiast
 
