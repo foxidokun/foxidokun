@@ -1,5 +1,7 @@
 #### I am Ilya Gladyshev
 
+See: https://foxido.dev/whoami
+
 * System Programmer with experience in DB / Kernel / Compiler development
 * IPhO/APhO winner
 * FPV drones enjoyer
